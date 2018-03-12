@@ -14,8 +14,6 @@ Step 3: Use revit command to view the project.
 ![alt text](https://github.com/ammysid9/Residential-Building/blob/master/Screensort/2nd%20Floor%20plan.png?raw=true)
 
 # 3D Views:
-![alt text](https://github.com/ammysid9/Residential-Building/blob/master/Screensort/2nd%20Floor%20plan.png?raw=true)
-
 ![alt text](https://github.com/ammysid9/Residential-Building/blob/master/Screensort/3D%20view%201.png?raw=true)
 
 ![alt text](https://github.com/ammysid9/Residential-Building/blob/master/Screensort/3D%20view.png?raw=true)
