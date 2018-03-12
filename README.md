@@ -11,4 +11,4 @@ Step 1: download the file
 Step 2: Open residentialhouse/home1 using revit 2013 or above.
 Step 3: Use revit command to view the project. 
 
-https://github.com/ammysid9/Residential-Building/blob/master/Screensort/2nd%20Floor%20plan.png?raw=true
+![alt text](https://github.com/ammysid9/Residential-Building/blob/master/Screensort/2nd%20Floor%20plan.png?raw=true)
